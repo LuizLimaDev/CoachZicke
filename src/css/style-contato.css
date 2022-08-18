@@ -202,6 +202,10 @@ th {
 }
 
 @media screen and (max-width: 480px) {
+    main {
+        width: auto;
+    }
+    
     .caixa {
         width: 100%;
         display: flex;
@@ -228,12 +232,7 @@ th {
         line-height: 1.7;
     }
 
-   .texto-checkbox {
-    font-size: 85%;
-   }
-
-     form, table {
-        max-width: max-content;
+    form, table {
         margin-left: 2em;
     }
 
