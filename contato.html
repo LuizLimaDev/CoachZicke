@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produtos - Coach Zicke</title>
+
+    <link rel="shortcut icon" href="./src/img/icone.png" type="image/x-icon">
+    <link rel="stylesheet" href="./src/css/reset.css">
+    <link rel="stylesheet" href="./src/css/style-contato.css">
+</head>
+
+<body>
+    <header>
+        <div class="caixa">
+            <img src="./src/img/banner.png" alt="Logo Coach Zicke" class="banner">
+
+            <nav>
+                <ul class="menugeral">
+                    <li class="menuhome"><a href="./index.html">Home</a></li>
+                    <li class="menuprodutos"><a href="./produtos.html">Produtos</a></li>
+                    <li class="menucontatos"><a href="./contato.html">Contato</a></li>
+                    <li class="menuo_coach"><a href="./o_coach.html">Coach</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <form>
+            <label for="nome">Nome completo</label>
+            <input type="text" id="nome" class="input-padrao" required placeholder="Nome completo">
+            <!-- todo input recebe uma etiqueta para virar um par e melhorar a navegaçao -->
+
+            <label for="email">Email</label>
+            <input type="email" id="email" class="input-padrao" required placeholder="seuemail@dominio.com">
+            <!-- todo input recebe uma "id" pq é unico, e facilita a codificação -->
+            <!-- "placeholder" é o texto indicativo de como preencher o formulario -->
+
+            <label for="telefone">Telefone</label>
+            <input type="tel" id="telefone" class="input-padrao" required placeholder="(DDD) xxxxx-xxxx">
+
+            <label for="mensagem">Mensagem</label>
+            <textarea cols="65" rows="10" id="mensagem" class="input-padrao" required
+                placeholder="Digite sua mensagem aqui!"></textarea>
+            <!-- toda entrada de texto recebe a tag "textarea" ao inves de input -->
+
+            <fieldset class="radio-fieldset">
+                <!-- A tag "fieldset" é mais semantica para agrupar os campos dentro do "form" -->
+
+                <legend class="opcoes-contato">Qual a melhor forma de contato?</legend>
+                <label for="radio-email"><input type="radio" name="contato" value="email" id="radio-email">Email</label>
+                <!-- para nao precisar colocar "for" e "id" no checkbox e mostrar que eles precisam funcionar em conjunto,
+                usamos a tag "input" dentro da label -->
+
+                <label for="radio-telefone"><input type="radio" name="contato" value="telefone"
+                        id="radio-telefone">Telefone</label>
+
+                <label for="radio-whats"><input type="radio" name="contato" value="whats" id="radio-whats"
+                        checked>WhatsApp</label>
+                <!-- "checked" sugere uma opçao que começa marcada no site -->
+
+            </fieldset>
+
+            <fieldset class="horario-fieldset">
+                <!-- para criar um campo selecionavel utilizamos a tag "select" e suas opçoes na tag "option" -->
+                <legend>Qual horário prefere ser atendido?</legend>
+                <!-- A tag "select" cria um campo de opções selecionaveis, aonde cada tag "option" mostra uma opção digitada -->
+                <select>
+                    <option>Manhã</option>
+                    <option>Tarde</option>
+                    <option>Noite</option>
+                </select>
+            </fieldset>
+
+            <label class="texto-checkbox"><input type="checkbox" class="checkbox" checked> Gostaria de receber meus eventos por email?</label>
+
+
+            <input type="submit" value="Enviar formulário" class="enviar">
+            <!-- o type "sumit" envia o dados do usuario ao ser clicado -->
+        </form>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Dia</th>
+                    <th>Horario</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Segunda</td>
+                    <td>8h ~20h</td>
+                </tr>
+            </tbody>
+            <tr>
+                <td>Quarta</td>
+                <td>8h ~20h</td>
+            </tr>
+            <tr>
+                <td>Sexta</td>
+                <td>8h ~20h</td>
+            </tr>
+        </table>
+
+    </main>
+
+    <footer>
+        <img src="./src/img/bannerwhite.png" class="bannerwhite" alt="Logo Coach Zicke">
+        <p>&copy;Copyrigth Coach Zicke - Since 2012</p>
+    </footer>
+</body>
+
+</html>
