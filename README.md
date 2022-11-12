@@ -6,15 +6,21 @@
 
 <p align="center"> <img src="https://images2.imgbox.com/e2/35/tkKBOQDw_o.jpg"> </p>
 
-<p align="center"> Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia. </p>
+<p align="center"> Um site pessoal dos meus trabalhos na área de Educação Física. </p>
 
 <br>
-> Status: Em andamento.
+
+<p align="center">
+:construction: 
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/> 
+:construction:
+</p>
+
 <br>
 
-## Tecnologias
+## :computer: Tecnologias
 * HTML
-* CSS
+* CSS 
 
-## Screenshots
+## :camera: Screenshot
 ![Screenshot do site](https://images2.imgbox.com/f4/d6/c6ulsR9Q_o.png)
