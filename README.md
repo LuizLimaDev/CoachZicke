@@ -27,4 +27,5 @@
 
 # Autor
 
-[<img src="https://avatars.githubusercontent.com/u/109322803?v=4" width=115><br><sub>Luiz Lima</sub>](https://github.com/ZickDev)
+| [<img src="https://avatars.githubusercontent.com/u/109322803?v=4" width=115><br><sub>Luiz Lima</sub>](https://github.com/ZickDev) | 
+| ------------- |
