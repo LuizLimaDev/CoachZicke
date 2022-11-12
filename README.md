@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto de conlcusão do curso de HTML/CSS </h1>
+|<h1 align="center"> Projeto de conlcusão do curso de HTML/CSS </h1>
 
 <p align="center"> <img src="https://images2.imgbox.com/a8/1f/8NtoFZ3k_o.jpg"> </p>
 
@@ -24,3 +24,7 @@
 
 ## :camera: Screenshot
 ![Screenshot do site](https://images2.imgbox.com/f4/d6/c6ulsR9Q_o.png)
+
+# Autor
+
+[<img src="https://avatars.githubusercontent.com/u/109322803?v=4" width=115><br><sub>Luiz Lima</sub>](https://github.com/ZickDev)
