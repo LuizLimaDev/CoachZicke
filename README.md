@@ -1,4 +1,4 @@
-|<h1 align="center"> Projeto de conlcusão do curso de HTML/CSS </h1>
+<h1 align="center"> Projeto de conlcusão do curso de HTML/CSS </h1>
 
 <p align="center"> <img src="https://images2.imgbox.com/a8/1f/8NtoFZ3k_o.jpg"> </p>
 
