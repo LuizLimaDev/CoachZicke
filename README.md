@@ -20,7 +20,7 @@
 
 ## :computer: Tecnologias
 * HTML
-* CSS 
+* CSS (Pseudo classes, pseudo elementos, seletores avançados e responsividade)
 
 ## :camera: Screenshot
 ![Screenshot do site](https://images2.imgbox.com/f4/d6/c6ulsR9Q_o.png)
