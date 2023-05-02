@@ -1,12 +1,8 @@
-<h1 align="center"> Projeto de conlcusão do curso de HTML/CSS </h1>
-
-<p align="center"> <img src="https://images2.imgbox.com/a8/1f/8NtoFZ3k_o.jpg"> </p>
+<h1 align="center">Site pessoal dos meus trabalhos na área de Educação Física. </h1>
 
 <hr>
 
 <p align="center"> <img src="https://images2.imgbox.com/e2/35/tkKBOQDw_o.jpg"> </p>
-
-<p align="center"> Um site pessoal dos meus trabalhos na área de Educação Física. </p>
 
 <br>
 
