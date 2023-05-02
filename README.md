@@ -1,7 +1,5 @@
 <h1 align="center">Site pessoal dos meus trabalhos na área de Educação Física. </h1>
 
-<hr>
-
 <p align="center"> <img src="https://images2.imgbox.com/e2/35/tkKBOQDw_o.jpg"> </p>
 
 <br>
