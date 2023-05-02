@@ -23,7 +23,7 @@
 * CSS (Pseudo classes, pseudo elementos, seletores avançados e responsividade)
 
 ## :camera: Screenshot
-![Screenshot do site](https://images2.imgbox.com/f4/d6/c6ulsR9Q_o.png)
+![Screenshot do site](https://images2.imgbox.com/6a/d8/hovNpZbK_o.png)
 
 # Autor
 
