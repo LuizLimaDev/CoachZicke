@@ -8,10 +8,9 @@
 :construction: 
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/> 
 :construction:
-
-Desenvolvido para telas em 1440px.
 </p>
-
+<p align="center">Desenvolvido para telas em 1440px.
+</p>
 <br>
 
 ## :computer: Tecnologias
