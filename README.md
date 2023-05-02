@@ -9,7 +9,7 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/> 
 :construction:
 </p>
-<p align="center">Desenvolvido para telas em 1440px.
+<p align="center">Meu primeiro app. Desenvolvido para telas em 1440px e remodelado.
 </p>
 <br>
 
