@@ -1,0 +1,91 @@
+@import url("../components/header.css");
+@import url("../components/footer.css");
+
+.container-contactPage {
+  display: flex;
+  gap: 125px;
+
+  margin: 94px 0 0 0;
+  padding: 48px 0;
+  border-top: 1px solid var(--secundary-color-gray);
+  border-bottom: 1px solid var(--secundary-color-gray);
+}
+
+.contactPage-title,
+.form-title {
+  width: 350px;
+}
+
+.contactPage-description {
+  width: 635px;
+}
+
+.contactPage-text {
+  margin-bottom: 54px;
+
+  opacity: 0.8;
+}
+
+.contactPage-socialMedia-list {
+  display: flex;
+  gap: 15px;
+}
+
+.contactPage-socialMedia-item-img {
+  cursor: pointer;
+}
+
+.container-form {
+  display: flex;
+  justify-content: space-between;
+
+  margin: 47px 0 109px;
+}
+
+.container-inputs {
+  display: flex;
+  flex-direction: column;
+
+  width: 635px;
+}
+
+.inputs-label {
+  margin-bottom: 8px;
+
+  font-weight: 700;
+  font-size: 13px;
+
+  opacity: 0.8;
+}
+
+.inputs-input {
+  height: 48px;
+  margin-bottom: 24px;
+  border: none;
+
+  background-color: var(--secundary-color-gray);
+}
+
+.inputs-input:focus {
+  border: 1px solid var(--primary-color-gray);
+}
+
+.menssage {
+  height: 134px;
+}
+
+.inputs-send {
+  width: 200px;
+  height: 48px;
+  border: none;
+
+  font-weight: 400;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-align: center;
+  text-transform: uppercase;
+
+  background-color: var(--theme-color-red);
+  color: var(--secundary-color-link);
+}

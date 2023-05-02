@@ -1,0 +1,25 @@
+.container-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 1440px;
+  height: 32px;
+}
+
+.header-logo {
+  width: 12rem;
+  padding-left: 64px;
+}
+
+.header-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 350px;
+  margin-right: 64px;
+
+  font-weight: 700;
+  text-transform: uppercase;
+}

@@ -1,0 +1,23 @@
+@import url("../components/content.css");
+
+.conteiner-expertises {
+  margin-bottom: 64px;
+}
+
+.expertise-box {
+  display: flex;
+  justify-content: space-between;
+  gap: 125px;
+
+  width: 1200px;
+  margin-top: 80px;
+}
+
+.preview-img {
+  width: 540px;
+  height: 500px;
+}
+
+.right {
+  order: 1;
+}

@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:wght@100;400&display=swap");
+
+:root {
+  --primary-color-green: #3dcc3e;
+  --primary-color-blue: #203A4C;
+  --primary-color-gray: #33323D;
+  --secundary-color-white: #FAFAFA;
+  --secundary-color-gray: #EAEAEB;
+  --secundary-color-link: #FFFFFF;
+  --bg-secondary-color: #000;
+
+  --theme-color-green: #3dcc3e;
+  --theme-color-yellow: #e8c219;
+  --theme-color-blue: #1f5cce;
+  --theme-color-red: #e51050;
+
+  --primary-font: 'Ibarra Real Nova', serif;
+  --secundary-font: 'Public Sans', sans-serif;
+  --title-font: 'Pirata One', cursive;
+}
